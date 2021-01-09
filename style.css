@@ -1,0 +1,21 @@
+
+a {
+    background-color: cyan;
+    color: green;
+    display: block;
+    height: 20px;
+    width: auto;
+    border: 1px solid rgba(43, 197, 102, 0.911);
+    width: 318px;
+}
+body{
+    background-image: url(download.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+}
+.font_1{
+    font-family: 'Abril Fatface', cursive;
+}
+.head{
+    font-family: 'Abril Fatface', cursive;
+}
